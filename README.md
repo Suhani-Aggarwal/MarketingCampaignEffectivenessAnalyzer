@@ -58,3 +58,28 @@ From the analysis we identify:
 * **Best Performing Marketing Channel** – channel with highest average conversion rate
 * **Highest ROI Channel** – marketing channel generating maximum return on investment
 * **Best Customer Segment** – customer group with the highest conversion rate
+
+
+* ### Campaign Conversion Rate
+
+![Campaign Conversion Rate](campaign_conversion_rate.png)
+
+### ROI by Marketing Channel
+
+![Channel ROI](channel_roi.png)
+
+### Conversion by Customer Segment
+
+![Customer Segment](customer_segment_conversion.png)
+
+### Engagement vs Conversion
+
+![Engagement vs Conversion](engagement_vs_conversion.png)
+
+### Monthly Conversion Trend
+
+![Monthly Trend](monthly_conversion_trend.png)
+
+### Conversion Distribution
+
+![Conversion Distribution](conversion_rate_distribution.png)
